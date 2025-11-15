@@ -2,12 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./</loc>
-		<lastmod>2025-11-11T05:44:58+00:00</lastmod>
+		<lastmod>2025-11-14T02:17:20+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/WhatsApp-Image-2022-03-04-at-12.28.30-AM.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/Sin-titulo-3-scaled.png</image:loc>
+			<image:loc>./wp-content/uploads/2025/11/Animado1.gif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/photo_2025-09-19_00-15-14.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/WhatsApp-Image-2025-09-18-at-10.21.03-AM.jpeg</image:loc>
@@ -17,9 +20,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/F9kPfT2WAAA3B5h.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/09/photo_2025-09-19_00-15-14.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -46,7 +46,7 @@
 	</url>
 	<url>
 		<loc>./burbujas/</loc>
-		<lastmod>2025-10-18T02:48:44+00:00</lastmod>
+		<lastmod>2025-11-13T18:20:23+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/WhatsApp-Image-2022-03-04-at-12.28.30-AM.jpeg</image:loc>
 		</image:image>
